@@ -1,0 +1,10 @@
+D:\Projects\Visual Studios\CDController\CDController\bin\Debug\CDController.exe.config
+D:\Projects\Visual Studios\CDController\CDController\bin\Debug\CDController.exe
+D:\Projects\Visual Studios\CDController\CDController\bin\Debug\CDController.pdb
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.Properties.Resources.resources
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.csproj.GenerateResource.Cache
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.exe
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.pdb
+D:\Projects\Visual Studios\CDController\CDController\obj\Debug\CDController.CDControllerForm.resources
